@@ -1,0 +1,1 @@
+python odoo-bin -r eddyv -w pa3ns2468 --addons-path=addons -d mydb
